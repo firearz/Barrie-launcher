@@ -25,7 +25,7 @@
 
 ## 📥 Download
 
-👉 [Download the latest release here](https://github.com/firearz/minecraft-launcher/releases)
+👉 [Download the latest release here](https://github.com/firearz/Barrie-launcher/releases)
 
 ## License
 
